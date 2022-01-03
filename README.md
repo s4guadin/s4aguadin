@@ -16,4 +16,7 @@
  🏡sou de minas gerais
 
  👀ele/dele
+ 
+tambem estou aprendendo a programar em
 
+python e javascript
